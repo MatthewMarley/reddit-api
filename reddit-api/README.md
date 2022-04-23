@@ -1,8 +1,8 @@
 # config.cfg file in reddit-api
 
 [REDDIT] \
-PERSONAL_USE_SCRIPT = <PERSONAL_USE_SCRIPT> \
-SECRET = <SECRET> \
-USERNAME = <USERNAME> \
-PASSWORD = <PASSWORD> \
-NAME = <NAME>
+PERSONAL_USE_SCRIPT=<personal_use_script> \
+SECRET=<secret> \
+USERNAME=<username> \
+PASSWORD=<password> \
+NAME=<name>
